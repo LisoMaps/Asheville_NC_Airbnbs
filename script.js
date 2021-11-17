@@ -54,7 +54,7 @@ airbnb_listings = L.geoJson.ajax("data/airbnb_listings.geojson", {
     });
   },
   attribution:
-    "Airbnb Listings &copy;  <a href='http://insideairbnb.com/get-the-data.html'>Inside Airbnb</a>  | Asheville Zoning Districts &copy; <a href='https://data-avl.opendata.arcgis.com/datasets/c22b353722b14d02bb06b23cd1bedf60_9?geometry=-82.760%2C35.549%2C-82.346%2C35.647'>City of Asheville</a> | Base Map &copy; <a href='https://carto.com/'>Carto</a> | Map Author: Map: <a href='https://weircf.wixsite.com/e-portfolio'>Chip Weir</a>",
+    "Airbnb Listings &copy;  <a href='http://insideairbnb.com/get-the-data.html'>Inside Airbnb</a>  | Asheville Zoning Districts &copy; <a href='https://data-avl.opendata.arcgis.com/datasets/c22b353722b14d02bb06b23cd1bedf60_9?geometry=-82.760%2C35.549%2C-82.346%2C35.647'>City of Asheville</a> | Base Map &copy; <a href='https://carto.com/'>Carto</a> | Map Author: <a href='https://weircf.wixsite.com/e-portfolio'>Chip Weir</a>",
 });
 
 // Add the Airbnbs to the map.
